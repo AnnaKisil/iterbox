@@ -1,3 +1,4 @@
 This file contains a new feature
 
 Feature 1
+Feature 2
