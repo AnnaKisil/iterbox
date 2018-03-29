@@ -2,3 +2,4 @@ This is the file to be fixed
 
 
 Fix 1
+Fix 2
